@@ -59,11 +59,9 @@ USE CASES
 • Customer Support Knowledge Bases
 • Research Assistants
 
-===========================================================
+====================================================
 AUTHOR
-===========================================================
+====================================================
 
 Sai Ram Purimetla
 MS Computer Engineering, NYU Tandon School of Engineering
-
-GitHub: https://github.com/sai1298
